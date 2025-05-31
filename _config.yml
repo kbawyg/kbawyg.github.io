@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 site_theme               : "default"
 title                    : "个人主页"
 title_separator          : "-"
@@ -26,7 +26,7 @@ author:
   name             : "王元刚(Yuangang Wang)"
   pronouns         : # example: "she/her"  
   bio              : "博士，讲师，硕士研究生导师"
-  location         : "大连·中国"
+  location         : "大连市，辽宁省，中国"
   employer         : "大连民族大学"
   uri              : # URL
   email            : "wyg@dlnu.edu.cn" 
