@@ -9,7 +9,7 @@
 
 main:
   - title: "论文著作"
-    url: /publications/
+    url: /paper/
 
   - title: "学科竞赛"
     url: /talks/    
