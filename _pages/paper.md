@@ -4,6 +4,7 @@ permalink: /paper/
 author_profile: true
 redirect_from:
   - /resume
+  - /about
 ---
 
 {% include base_path %}
