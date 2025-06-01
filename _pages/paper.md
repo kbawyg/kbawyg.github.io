@@ -8,6 +8,15 @@ redirect_from:
 
 {% include base_path %}
 
+在审论文
+=
+1. Han Gao, Tao Ning, Xiaodong Duan, Xiaochun Wan, Lvzuo Chen, Jingsong Chen, **Yuangang Wang***. Multimodal Personality Trait Recognition via Spatiotemporal Modeling and Dual-Stage Fusion, **32nd International Conference on Neural Information Processing**, **一审**.
+2. Xueting Jiang, Xincheng He, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang***. Towards Transparent Industrial Fault Diagnosis via Logic-Aware Neural Rule Learning, **32nd International Conference on Neural Information Processing**, **一审**.
+3. Xueting Jiang, Xiaochun Wan, Han Gao, Haoran Liu, Shuo Guan, Tao Ning, Xiaodong Duan, and **Yuangang Wang***. Deep Multimodal Fusion Network for Apparent Personality Analysis, **2025 International Conference on Systems, Man, and Cybernetics**, **一审**.
+4. **Yuangang Wang**, Haoran Liu, Xincheng He, Shuo Guan, Xiaodong Duan, Wenjuan Jian, and Cunrui Wang*. Mixture of Fuzzy Rule-based Classification Systems, **Journal of King Saud University Computer and Information Sciences**, **一审**.
+5. **Yuangang Wang**, Xu Chen, Haoran Liu, Xiaochun Wan, Shuo Guan, Xiaodong Duan*. EEG-Based Personality Recognition With Long Short-Term Memory and Squeeze-and-Excitation Network, **International Journal of Machine Learning and Cybernetics**, 二**审**.
+6. **Yuangang Wang**, Jingshuai Dong, Xincheng He, Haoran Liu, Shuo Guan, Xiaodong Duan*. ML-DFRBCS: Multi-Label Deep Fuzzy Rule-based Classification System, **Applied Intelligence**, **一审**.
+
 期刊论文
 =
 1. **Yuangang Wang**, Jiaming Duan, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. [*Interpretable Classifier Design by Axiomatic Fuzzy Sets Theory and Derivative-free Optimization*](https://www.sciencedirect.com/science/article/abs/pii/S0957417424001052), **Expert Systems With Applications**, 2024, 246: 123240.
