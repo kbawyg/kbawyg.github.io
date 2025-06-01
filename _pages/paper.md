@@ -19,50 +19,6 @@ redirect_from:
 7. Xiaodong Liu*, Wenjuan Jia, **Yuangang Wang**, Hongyue Guo, Yan Ren and Zedong Li, [*Knowledge Discovery and Semantic Learning in the Framework of AFS Theory*](https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1268), **Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery**, 2018, vol. 8, pp. e1268.
 8. Xiaodong Duan, Qiguo Dai*, Xinhan Wang, **Yuangang Wang** and Zhichao Hua, [*Recognizing Spontaneous Micro-expression from Eye Region*](https://www.sciencedirect.com/science/article/abs/pii/S0925231216306087), **Neurocomputing**, 2016, vol. 217, pp. 27-36.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+会议论文
+=
+1. Xincheng He, Xueting Jiang, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen. Neural Rule Learning with Network Architecture Search for Interpretable Classification, **International Conference on Intelligent Computing**, 2025.
