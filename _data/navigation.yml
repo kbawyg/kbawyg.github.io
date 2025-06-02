@@ -15,7 +15,7 @@ main:
     url: /competition/    
 
   - title: "课程教学"
-    url: /teaching/    
+    url: /course/
     
   - title: "荣誉奖励"
     url: /portfolio/
