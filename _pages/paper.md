@@ -14,7 +14,7 @@ redirect_from:
 1. Han Gao, Tao Ning, Xiaodong Duan, Xiaochun Wan, Lvzuo Chen, Jingsong Chen, **Yuangang Wang***. Multimodal Personality Trait Recognition via Spatiotemporal Modeling and Dual-Stage Fusion, **International Conference on Neural Information Processing**.
 2. Xueting Jiang, Xincheng He, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang***. Towards Transparent Industrial Fault Diagnosis via Logic-Aware Neural Rule Learning, **International Conference on Neural Information Processing**.
 3. Xueting Jiang, Xiaochun Wan, Han Gao, Haoran Liu, Shuo Guan, Tao Ning, Xiaodong Duan, and **Yuangang Wang***. Deep Multimodal Fusion Network for Apparent Personality Analysis, **International Conference on Systems, Man, and Cybernetics**.
-4. **Yuangang Wang**, Haoran Liu, Xincheng He, Shuo Guan, Xiaodong Duan, Wenjuan Jian, and Cunrui Wang*. Mixture of Fuzzy Rule-based Classification Systems, **Journal of King Saud University Computer and Information Sciences**.
+4. **Yuangang Wang**, Haoran Liu, Xincheng He, Shuo Guan, Xiaodong Duan, Wenjuan Jian, and Cunrui Wang*. Mixture of Fuzzy Rule-based Classification Systems, **International Journal of Computational Intelligence Systems**.
 5. **Yuangang Wang**, Xu Chen, Haoran Liu, Xiaochun Wan, Shuo Guan, Xiaodong Duan*. EEG-Based Personality Recognition With Long Short-Term Memory and Squeeze-and-Excitation Network, **International Journal of Machine Learning and Cybernetics**.
 6. **Yuangang Wang**, Jingshuai Dong, Xincheng He, Haoran Liu, Shuo Guan, Xiaodong Duan*. ML-DFRBCS: Multi-Label Deep Fuzzy Rule-based Classification System, **Applied Intelligence**.
 
