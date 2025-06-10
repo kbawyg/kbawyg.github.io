@@ -25,5 +25,4 @@ redirect_from:
 比赛掠影
 =
 
-![图1](/images/aichuangxin.jpg)
-![图2](/images/jisuanjisheji.jpg)
+<img src="https://cn.widgetstore.net/view/index.html?q=ca780ad562d7cdba0bb00dab4b0c47ec.6c670e5d6847db1e0267f335164818ae" style="min-width:100px;width:320px;min-height:100px;height:320px">
