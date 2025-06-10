@@ -27,7 +27,7 @@ redirect_from:
 
 <details>
 <summary>第1页</summary>
-![图1](images/aichuangxin.jpg)
+![图1](../images/aichuangxin.jpg)
 </details>
 
 <details>
