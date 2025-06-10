@@ -5,6 +5,8 @@ author_profile: true
 redirect_from:
   - /resume
   - /about
+  - /course
+  - /team
 ---
 
 {% include base_path %}
