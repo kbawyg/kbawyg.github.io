@@ -25,5 +25,5 @@ redirect_from:
 比赛掠影
 =
 
-![图1](./images/aichuangxin.jpg)
-![图2](./images/jisuanjisheji.jpg)
+![图1](/images/aichuangxin.jpg)
+![图2](/images/jisuanjisheji.jpg)
