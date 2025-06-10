@@ -25,4 +25,4 @@ redirect_from:
 比赛掠影
 =
 
-<img src="https://cn.widgetstore.net/view/index.html?q=ca780ad562d7cdba0bb00dab4b0c47ec.6c670e5d6847db1e0267f335164818ae">
+<img src="https://cn.widgetstore.net/view/index.html?q=ca780ad562d7cdba0bb00dab4b0c47ec.6c670e5d6847db1e0267f335164818ae"/>
