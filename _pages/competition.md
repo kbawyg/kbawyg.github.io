@@ -21,3 +21,16 @@ redirect_from:
 | 6 | 全球校园人工智能算法精英大赛 | A2 | | | | | | 1 |
 | 7 | APMCM亚太地区大学生数学建模竞赛 | A3 | 1 | 1 | 2 | | | |
 | 8 | 华为ICT大赛 | A2 | | | | 1 | 2 | |
+
+比赛掠影
+=
+
+<details>
+<summary>第1页</summary>
+![图1](images/aichuangxin.jpg)
+</details>
+
+<details>
+<summary>第2页</summary>
+![图2](images/jisuanjisheji.jpg)
+</details>
