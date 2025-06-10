@@ -18,7 +18,7 @@ main:
     url: /course/
     
   - title: "荣誉奖励"
-    url: /portfolio/
+    url: /honor/
         
   - title: "团队成员"
     url: /year-archive/
