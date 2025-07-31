@@ -34,5 +34,5 @@ redirect_from:
 
 会议论文
 =
-1. Xincheng He, Xueting Jiang, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang**. [*Neural Rule Learning with Network Architecture Search for Interpretable Classification*](http://poster-openaccess.com/files/ICIC2025/3999.pdf), **2025 International Conference on Intelligent Computing**, July 26-29, Ningbo, China.
-2. Xueting Jiang, Xincheng He, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang***. Towards Transparent Industrial Fault Diagnosis via Logic-Aware Neural Rule Learning, **International Conference on Neural Information Processing**.
+1. Xincheng He, Xueting Jiang, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang**. [*Neural Rule Learning with Network Architecture Search for Interpretable Classification*](http://poster-openaccess.com/files/ICIC2025/3999.pdf), **2025 21st International Conference on Intelligent Computing**, July 26-29, Ningbo, China.
+2. Xueting Jiang, Xincheng He, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang***. Towards Transparent Industrial Fault Diagnosis via Logic-Aware Neural Rule Learning, **2025 32nd International Conference on Neural Information Processing**.
