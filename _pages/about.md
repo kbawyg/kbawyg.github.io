@@ -9,6 +9,7 @@ redirect_from:
 
 新闻近况
 =
+* 【2025-08-22】本科生乌汗图和徐永琦获得[2025年睿抗机器人开发者大赛（RAICOM）信息技术创新（CAIP）赛道编程技能赛项（本科组）](https://www.raicom.com.cn/content.html?cid=1488)国家级一等奖，王发兴获得国家级二等奖。
 * 【2025-08-20】研究生申博文和薛佳宇组成的队伍获得[2025年睿抗机器人开发者大赛（RAICOM）信息技术创新（CAIP）赛道智海人工智能算法应用赛项](https://www.raicom.com.cn/content.html?cid=1487)国家级一等奖。
 * 【2025-08-15】研究生申博文和薛佳宇组成的队伍获得[2025年第十五届亚太地区大学生数学建模竞赛(中文赛项）](https://m.saikr.com/contest/notice_detail/32909)研究生组国家级一等奖，本科生王发兴、刘恩伯和舒星卜组成的队伍获得本科生组国家级三等奖。
 * 【2025-07-26】研究生姜雪婷等人撰写的论文“Towards Transparent Industrial Fault Diagnosis via Logic-Aware Neural Rule Learning”被ICONIP 2025（CCF-C）录用为Poster Paper。
