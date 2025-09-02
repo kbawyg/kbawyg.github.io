@@ -11,15 +11,16 @@ redirect_from:
 
 拟投稿论文
 =
-1. Han Gao, Tao Ning, Xiaodong Duan, Xiaochun Wan, Lvzuo Chen, Jingsong Chen, **Yuangang Wang***. Multimodal Personality Trait Recognition via Spatiotemporal Modeling and Dual-Stage Fusion, **International Conference on MultiMedia Modeling**.
-2. Xueting Jiang, Xiaochun Wan, Han Gao, Haoran Liu, Shuo Guan, Tao Ning, Xiaodong Duan, and **Yuangang Wang***. Deep Multimodal Fusion Network for Apparent Personality Analysis, **International Conference on MultiMedia Modeling**.
+1. **Yuangang Wang**, Jiaqi Shen, Lijing Wei, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. Partial Label Learning Based on Takagi-Sugeno-Kang Fuzzy System.
+
 
 在审论文
 =
 1. **Yuangang Wang**, Haoran Liu, Xincheng He, Shuo Guan, Xiaodong Duan, Wenjuan Jian, and Cunrui Wang*. Mixture of Fuzzy Rule-based Classification Systems, **International Journal of Computational Intelligence Systems**.
 2. **Yuangang Wang**, Xu Chen, Haoran Liu, Xiaochun Wan, Shuo Guan, Xiaodong Duan*. EEG-Based Personality Recognition With Long Short-Term Memory and Squeeze-and-Excitation Network, **International Journal of Machine Learning and Cybernetics**.
 3. **Yuangang Wang**, Jingshuai Dong, Xincheng He, Haoran Liu, Shuo Guan, Xiaodong Duan*. ML-DFRBCS: Multi-Label Deep Fuzzy Rule-based Classification System, **Applied Soft Computing**.
-4. **Yuangang Wang**, Jiaqi Shen, Lijing Wei, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. Partial Label Learning Based on Takagi-Sugeno-Kang Fuzzy System, **IEEE Transactions on Fuzzy Systems**.
+4. Han Gao, Tao Ning, Xiaodong Duan, Xiaochun Wan, Lvzuo Chen, Jingsong Chen, **Yuangang Wang***. Multimodal Personality Trait Recognition via Spatiotemporal Modeling and Dual-Stage Fusion, **International Conference on MultiMedia Modeling**.
+5. Xueting Jiang, Xiaochun Wan, Han Gao, Haoran Liu, Shuo Guan, Tao Ning, Xiaodong Duan, and **Yuangang Wang***. Deep Multimodal Fusion Network for Apparent Personality Analysis, **International Conference on MultiMedia Modeling**.
 
 期刊论文
 =
@@ -34,5 +35,5 @@ redirect_from:
 
 会议论文
 =
-1. Xincheng He, Xueting Jiang, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang**. [*Neural Rule Learning with Network Architecture Search for Interpretable Classification*](http://poster-openaccess.com/files/ICIC2025/3999.pdf), **2025 21st International Conference on Intelligent Computing**, July 26-29, Ningbo, China.
-2. Xueting Jiang, Xincheng He, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang***. Towards Transparent Industrial Fault Diagnosis via Logic-Aware Neural Rule Learning, **2025 32nd International Conference on Neural Information Processing**.
+1. Xincheng He, Xueting Jiang, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang**. [*Neural Rule Learning with Network Architecture Search for Interpretable Classification*](http://poster-openaccess.com/files/ICIC2025/3999.pdf), **2025 21st International Conference on Intelligent Computing**, July 26-29, Ningbo, China, 2025.
+2. Xueting Jiang, Xincheng He, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang***. Towards Transparent Industrial Fault Diagnosis via Logic-Aware Neural Rule Learning, **2025 32nd International Conference on Neural Information Processing**, November 20-24, Okinawa, Japan, 2025.
