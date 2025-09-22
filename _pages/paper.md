@@ -11,7 +11,7 @@ redirect_from:
 
 拟投稿论文
 =
-1. **Yuangang Wang**, Jiaqi Shen, Lijing Wei, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. Partial Label Learning Based on Takagi-Sugeno-Kang Fuzzy System.
+
 
 
 在审论文
@@ -20,6 +20,7 @@ redirect_from:
 2. **Yuangang Wang**, Jingshuai Dong, Xincheng He, Haoran Liu, Shuo Guan, Xiaodong Duan*. ML-DFRBCS: Multi-Label Deep Fuzzy Rule-based Classification System, **Applied Soft Computing**.
 3. Han Gao, Tao Ning, Xiaodong Duan, Xiaochun Wan, Lvzuo Chen, Jingsong Chen, **Yuangang Wang***. Multimodal Personality Trait Recognition via Spatiotemporal Modeling and Dual-Stage Fusion, **International Conference on MultiMedia Modeling**.
 4. Xueting Jiang, Xiaochun Wan, Han Gao, Haoran Liu, Shuo Guan, Tao Ning, Xiaodong Duan, and **Yuangang Wang***. Deep Multimodal Fusion Network for Apparent Personality Analysis, **International Conference on MultiMedia Modeling**.
+5. **Yuangang Wang**, Jiaqi Shen, Lijing Wei, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. Partial Label Learning Based on Takagi-Sugeno-Kang Fuzzy System, **IEEE Transactions on Big Data**.
 
 期刊论文
 =
