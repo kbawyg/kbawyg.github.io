@@ -9,6 +9,7 @@ redirect_from:
 
 新闻近况
 =
+* 【2025-10-10】本科生刘恩伯、杨晗和舒星卜等人组成的队伍获得2025年全国大学生数学建模竞赛省级三等奖。
 * 【2025-09-07】研究生陈旭等人撰写的论文“EEG-Based Personality Recognition With Long Short-Term Memory and Squeeze-and-Excitation Network”被International Journal of Machine Learning and Cybernetics（SCI，中科院分区4区）录用。
 * 【2025-08-22】本科生乌汗图和徐永琦获得[2025年睿抗机器人开发者大赛（RAICOM）信息技术创新（CAIP）赛道编程技能赛项（本科组）](https://www.raicom.com.cn/content.html?cid=1488)国家级一等奖，王发兴获得国家级二等奖。
 * 【2025-08-20】研究生申博文和薛佳宇组成的队伍获得[2025年睿抗机器人开发者大赛（RAICOM）信息技术创新（CAIP）赛道智海人工智能算法应用赛项](https://www.raicom.com.cn/content.html?cid=1487)国家级一等奖。
