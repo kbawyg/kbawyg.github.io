@@ -21,6 +21,7 @@ redirect_from:
 3. Han Gao, Tao Ning, Xiaodong Duan, Xiaochun Wan, Lvzuo Chen, Jingsong Chen, **Yuangang Wang***. Multimodal Personality Trait Recognition via Spatiotemporal Modeling and Dual-Stage Fusion, **International Conference on MultiMedia Modeling**.
 4. Xueting Jiang, Xiaochun Wan, Han Gao, Haoran Liu, Shuo Guan, Tao Ning, Xiaodong Duan, and **Yuangang Wang***. Deep Multimodal Fusion Network for Apparent Personality Analysis, **International Conference on MultiMedia Modeling**.
 5. **Yuangang Wang**, Jiaqi Shen, Lijing Wei, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. Partial Label Learning Based on Takagi-Sugeno-Kang Fuzzy System, **IEEE Transactions on Big Data**.
+6. Bowen Shen, Jiayu Xue, Haoran Liu, Shuo Guan, Lijing Wei, Hejia Cao, **Yuangang Wang**. Differentiable Rule Networks for Interpretable and Uncertainty-Aware Crop Yield Prediction, **International Conference on Database Systems for Advanced Applications**.
 
 期刊论文
 =
