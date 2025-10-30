@@ -29,30 +29,4 @@ redirect_from:
 
 比赛掠影
 =
-
-<!-- 放在你的 Markdown 中 -->
-<div style="display:flex; gap:8px; overflow-x:auto; padding:8px;
-            scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch; border-radius:12px; border:1px solid #e5e7eb;">
-  <!-- 单张卡片 -->
-  <figure style="flex:0 0 auto; scroll-snap-align:center; margin:0; position:relative; width:280px; height:180px;">
-    <img src="../images/pic1.jpg" alt="相片1说明" style="width:100%; height:100%; object-fit:cover; border-radius:10px;">
-    <figcaption style="position:absolute; left:8px; bottom:8px; padding:4px 8px; background:rgba(0,0,0,.5); color:#fff; border-radius:6px; font-size:12px;">
-      相片 1
-    </figcaption>
-  </figure>
-
-  <figure style="flex:0 0 auto; scroll-snap-align:center; margin:0; position:relative; width:280px; height:180px;">
-    <img src="images/pic2.jpg" alt="相片2说明" style="width:100%; height:100%; object-fit:cover; border-radius:10px;">
-    <figcaption style="position:absolute; left:8px; bottom:8px; padding:4px 8px; background:rgba(0,0,0,.5); color:#fff; border-radius:6px; font-size:12px;">
-      相片 2
-    </figcaption>
-  </figure>
-
-  <figure style="flex:0 0 auto; scroll-snap-align:center; margin:0; position:relative; width:280px; height:180px;">
-    <img src="images/pic3.jpg" alt="相片3说明" style="width:100%; height:100%; object-fit:cover; border-radius:10px;">
-    <figcaption style="position:absolute; left:8px; bottom:8px; padding:4px 8px; background:rgba(0,0,0,.5); color:#fff; border-radius:6px; font-size:12px;">
-      相片 3
-    </figcaption>
-  </figure>
-</div>
-
+<iframe src="https://albumizr.com/a/bP9t" scrolling="yes" frameborder="0" allowfullscreen width="700" height="400"></iframe>
