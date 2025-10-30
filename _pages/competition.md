@@ -29,4 +29,4 @@ redirect_from:
 
 比赛掠影
 =
-<iframe src="https://albumizr.com/a/bP9t" scrolling="yes" frameborder="0" allowfullscreen width="700" height="400"></iframe>
+<iframe src="https://albumizr.com/a/bP9t" scrolling="yes" frameborder="0" allowfullscreen></iframe>
