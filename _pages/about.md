@@ -9,6 +9,7 @@ redirect_from:
 
 新闻近况
 =
+* 【2025-10-30】研究生高涵等人撰写的论文“Multimodal Personality Trait Recognition via Spatiotemporal Modeling and Dual-Stage Fusion”被MMM 2026（CCF-C）录用。
 * 【2025-10-30】研究生薛佳宇、申博文、韦丽静和曹何佳组成的队伍“模糊智控”获得[“华为杯”第七届中国研究生人工智能创新大赛全国总决赛](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c908017998135290199d8d9469c5004)国家级二等奖。
 * 【2025-10-10】本科生刘恩伯、杨晗和舒星卜等人组成的队伍获得[2025年全国大学生数学建模竞赛辽宁赛区](http://chuangxin.dlut.edu.cn/info/1020/15076.htm)省级三等奖。
 * 【2025-09-07】研究生陈旭等人撰写的论文“EEG-Based Personality Recognition With Long Short-Term Memory and Squeeze-and-Excitation Network”被International Journal of Machine Learning and Cybernetics（SCI，中科院分区4区）录用。
