@@ -29,4 +29,6 @@ redirect_from:
 
 比赛掠影
 =
-<iframe src="https://albumizr.com/a/bP9t" scrolling="yes" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://cn.widgetstore.net/view/index.html?q=ca780ad562d7cdba0bb00dab4b0c47ec.cd349d8f69037e76017d48183beee20b"
+        width="100%" height="600"
+        style="border: none;"></iframe>
