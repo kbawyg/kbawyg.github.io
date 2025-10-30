@@ -35,7 +35,7 @@ redirect_from:
             scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch; border-radius:12px; border:1px solid #e5e7eb;">
   <!-- 单张卡片 -->
   <figure style="flex:0 0 auto; scroll-snap-align:center; margin:0; position:relative; width:280px; height:180px;">
-    <img src="./images/pic1.jpg" alt="相片1说明" style="width:100%; height:100%; object-fit:cover; border-radius:10px;">
+    <img src="../images/pic1.jpg" alt="相片1说明" style="width:100%; height:100%; object-fit:cover; border-radius:10px;">
     <figcaption style="position:absolute; left:8px; bottom:8px; padding:4px 8px; background:rgba(0,0,0,.5); color:#fff; border-radius:6px; font-size:12px;">
       相片 1
     </figcaption>
