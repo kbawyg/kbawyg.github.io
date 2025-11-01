@@ -31,3 +31,5 @@ redirect_from:
 * 【2025-04-28】硕士生贺鑫诚等人撰写的论文“Neural Rule Learning with Network Architecture Search for Interpretable Classification”被ICIC 2025（CCF-C）录用为Poster Paper。
 * 【2025-03-27】本科生郭莹莹等人、硕士生贺鑫诚等人组成的两支队伍分别获得[“2024亚太地区大学生数学建模竞赛”](http://m.saikr.com/contest/notice_detail/27342)国家级三等奖。
 * 【2025-01-13】硕士生姜雪婷获得[“2024华为辽宁省大学生信息化技能大赛”](https://cxcy.upln.cn/competitionDetails?id=ef2a6cc91e255a240b4d351cdf2861cd)省级一等奖，硕士生贺鑫诚、薛佳宇获得省级二等奖。
+
+<iframe src="https://cn.widgetstore.net/view/index.html?q=5b049cc8622189440f31d6307d40e568.def9fa846906226601bfad063ef64282"></iframe>
