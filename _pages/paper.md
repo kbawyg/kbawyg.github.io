@@ -20,7 +20,7 @@ redirect_from:
 2. **Yuangang Wang**, Jingshuai Dong, Xincheng He, Haoran Liu, Shuo Guan, Xiaodong Duan*. ML-DFRBCS: Multi-Label Deep Fuzzy Rule-based Classification System, **Applied Soft Computing**.
 3. Lijing Wei, Xiaochun Wan, Han Gao, Haoran Liu, Shuo Guan, Tao Ning, Xiaodong Duan, and **Yuangang Wang***. Deep Multimodal Fusion Network for Apparent Personality Analysis.
 4. **Yuangang Wang**, Jiaqi Shen, Lijing Wei, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. Partial Label Learning Based on Takagi-Sugeno-Kang Fuzzy System, **IEEE Transactions on Big Data**.
-5. Bowen Shen, Jiayu Xue, Haoran Liu, Shuo Guan, Lijing Wei, Hejia Cao, **Yuangang Wang**. Differentiable Rule Networks for Interpretable and Uncertainty-Aware Crop Yield Prediction, **International Conference on Database Systems for Advanced Applications**.
+5. Bowen Shen, Jiayu Xue, Haoran Liu, Shuo Guan, Lijing Wei, Hejia Cao, **Yuangang Wang***. Differentiable Rule Networks for Interpretable and Uncertainty-Aware Crop Yield Prediction, **International Conference on Database Systems for Advanced Applications**.
 
 期刊论文
 =
