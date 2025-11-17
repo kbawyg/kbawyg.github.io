@@ -9,6 +9,8 @@ redirect_from:
 
 新闻近况
 =
+* 【2025-11-17】研究生申博文、薛佳宇和曹何佳等人组成的队伍获得[“华为杯”第二十二届中国研究生数学建模竞赛](https://cpipc.acge.org.cn//cw/detail/4/2c9080159a80f856019a8f83159814f9)国家级二等奖，韦丽静、贺鑫诚、姜雪婷等人组成的队伍获得国家级三等奖。
+* 【2025-11-14】本科生陈烨、郭欣媛、金善美等人组成的队伍获得[第七届全球校园人工智能算法精英大赛算法挑战赛](https://www.aicomp.cn/notice/notice-3/2946.html)省级三等奖。
 * 【2025-10-30】研究生高涵等人撰写的论文“Multimodal Personality Trait Recognition via Spatiotemporal Modeling and Dual-Stage Fusion”被MMM 2026（CCF-C）录用。
 * 【2025-10-30】研究生薛佳宇、申博文、韦丽静和曹何佳组成的队伍“模糊智控”获得[“华为杯”第七届中国研究生人工智能创新大赛全国总决赛](https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c90801799f7531a019a3d88ccaa51cd)国家级二等奖。
 * 【2025-10-10】本科生刘恩伯、杨晗和舒星卜等人组成的队伍获得[2025年全国大学生数学建模竞赛辽宁赛区](http://chuangxin.dlut.edu.cn/info/1020/15076.htm)省级三等奖。
