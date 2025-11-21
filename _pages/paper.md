@@ -37,5 +37,5 @@ redirect_from:
 会议论文
 =
 1. Xincheng He, Xueting Jiang, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang**. [*Neural Rule Learning with Network Architecture Search for Interpretable Classification*](http://poster-openaccess.com/files/ICIC2025/3999.pdf), **2025 21st International Conference on Intelligent Computing**, July 26-29, Ningbo, China, 2025.
-2. Xueting Jiang, Xincheng He, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang***. Towards Transparent Industrial Fault Diagnosis via Logic-Aware Neural Rule Learning, **2025 32nd International Conference on Neural Information Processing**, November 20-24, Okinawa, Japan, 2025.
+2. Xueting Jiang, Xincheng He, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang***. [*Towards Transparent Industrial Fault Diagnosis via Logic-Aware Neural Rule Learning*](https://link.springer.com/chapter/10.1007/978-981-95-4109-6_19), **2025 32nd International Conference on Neural Information Processing**, November 20-24, Okinawa, Japan, 2025.
 3. Han Gao, Tao Ning, Xiaodong Duan, Xiaochun Wan, Lvzuo Chen, Jingsong Chen, **Yuangang Wang***. Multimodal Personality Trait Recognition via Spatiotemporal Modeling and Dual-Stage Fusion, **2026 32nd International Conference on MultiMedia Modeling**, January 29-31, Prague, Czech Republic, 2026.
