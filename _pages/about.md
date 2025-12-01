@@ -9,6 +9,7 @@ redirect_from:
 
 新闻近况
 =
+* 【2025-12-01】本科生吴清枚、杨晗和崔博禹等人组成的队伍获得[2025年第六届MathorCup数学应用挑战赛——大数据竞赛](http://www.mathorcup.org/detail/2465)国家级二等奖。
 * 【2025-11-17】研究生申博文、薛佳宇和曹何佳等人组成的队伍获得[“华为杯”第二十二届中国研究生数学建模竞赛](https://cpipc.acge.org.cn//cw/detail/4/2c9080159a80f856019a8f83159814f9)国家级二等奖，韦丽静、贺鑫诚、姜雪婷等人组成的队伍获得国家级三等奖。
 * 【2025-11-14】本科生陈烨、郭欣媛、金善美等人组成的队伍获得[第七届全球校园人工智能算法精英大赛算法挑战赛](https://www.aicomp.cn/notice/notice-3/2946.html)省级三等奖。
 * 【2025-10-30】研究生高涵等人撰写的论文“Multimodal Personality Trait Recognition via Spatiotemporal Modeling and Dual-Stage Fusion”被MMM 2026（CCF-C）录用。
