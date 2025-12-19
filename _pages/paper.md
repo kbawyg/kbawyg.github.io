@@ -18,14 +18,14 @@ redirect_from:
 =
 1. Jiayu Xue, Bowen Shen, Haoran Liu, Shuo Guan, Lijing Wei, Hejia Cao, **Yuangang Wang**. From Soft Logic to Hard Rules: A Differentiable Boolean Framework for Interpretable and Balanced Classification, **Pacific-Asia Conference on Knowledge Discovery and Data Mining**.
 2. **Yuangang Wang**, Jingshuai Dong, Xincheng He, Haoran Liu, Shuo Guan, Xiaodong Duan*. ML-DFRBCS: Multi-Label Deep Fuzzy Rule-based Classification System, **Applied Soft Computing**.
-3. Lijing Wei, Xiaochun Wan, Han Gao, Haoran Liu, Shuo Guan, Tao Ning, Xiaodong Duan, and **Yuangang Wang***. Deep Multimodal Fusion Network for Apparent Personality Analysis.
+3. Lijing Wei, Xiaochun Wan, Han Gao, Haoran Liu, Shuo Guan, Tao Ning, Xiaodong Duan, and **Yuangang Wang***. Deep Multimodal Fusion Network for Apparent Personality Analysis, **IEEE International Conference on Multimedia and Expo**.
 4. **Yuangang Wang**, Jiaqi Shen, Lijing Wei, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. Partial Label Learning Based on Takagi-Sugeno-Kang Fuzzy System, **IEEE Transactions on Big Data**.
 5. Bowen Shen, Jiayu Xue, Haoran Liu, Shuo Guan, Lijing Wei, Hejia Cao, **Yuangang Wang***. Differentiable Rule Networks for Interpretable and Uncertainty-Aware Crop Yield Prediction, **International Conference on Database Systems for Advanced Applications**.
 
 期刊论文
 =
 1. **Yuangang Wang**, Haoran Liu, Xincheng He, Shuo Guan, Xiaodong Duan, Wenjuan Jian, and Cunrui Wang*. Mixture of Fuzzy Rule-based Classification Systems, **International Journal of Computational Intelligence Systems**.
-2. **Yuangang Wang**, Xu Chen, Xueting Jiang, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. [*EEG-Based Personality Recognition With Long Short-Term Memory and Squeeze-and-Excitation Network*](https://link.springer.com/article/10.1007/s13042-025-02813-8), **International Journal of Machine Learning and Cybernetics**, 2025, DOI: https://doi.org/10.1007/s13042-025-02813-8.
+2. **Yuangang Wang**, Xu Chen, Xueting Jiang, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. [*EEG-Based Personality Recognition With Long Short-Term Memory and Squeeze-and-Excitation Network*](https://link.springer.com/article/10.1007/s13042-025-02813-8), **International Journal of Machine Learning and Cybernetics**, 2025, 16: 10959–10976.
 3. **Yuangang Wang**, Jiaming Duan, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. [*Interpretable Classifier Design by Axiomatic Fuzzy Sets Theory and Derivative-free Optimization*](https://www.sciencedirect.com/science/article/abs/pii/S0957417424001052), **Expert Systems With Applications**, 2024, 246: 123240.
 4. **Yuangang Wang**, Haoran Liu, Wenjuan Jia, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. [*Deep Fuzzy Rule-based Classification System with Improved Wang-Mendel Method*](https://ieeexplore.ieee.org/document/9492811), **IEEE Transactions on Fuzzy Systems**, 2022, 30(8): 2957-2970.
 5. Wenjuan Jia, Xiaodong Liu*, **Yuangang Wang**, Witold Pedrycz, Juxiang Zhou. [*Semisupervised Learning via Axiomatic Fuzzy Set Theory and SVM*](https://ieeexplore.ieee.org/document/9275342), **IEEE Transactions on Cybernetics**, 2022, 52(6): 4661-4674.
