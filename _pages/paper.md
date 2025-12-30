@@ -24,7 +24,7 @@ redirect_from:
 
 期刊论文
 =
-1. **Yuangang Wang**, Haoran Liu, Xincheng He, Shuo Guan, Xiaodong Duan, Wenjuan Jian, and Cunrui Wang*. [*Mixture of Fuzzy Rule-based Classification Systems*](https://link.springer.com/article/10.1007/s44196-025-01112-y), **International Journal of Computational Intelligence Systems**, 2025, https://doi.org/10.1007/s44196-025-01112-y.
+1. **Yuangang Wang**, Haoran Liu, Xincheng He, Shuo Guan, Xiaodong Duan, Wenjuan Jian, and Cunrui Wang*. [*Mixture of Fuzzy Rule-based Classification Systems*](https://link.springer.com/article/10.1007/s44196-025-01112-y), **International Journal of Computational Intelligence Systems**, 2025, 18: 329.
 2. **Yuangang Wang**, Xu Chen, Xueting Jiang, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. [*EEG-Based Personality Recognition With Long Short-Term Memory and Squeeze-and-Excitation Network*](https://link.springer.com/article/10.1007/s13042-025-02813-8), **International Journal of Machine Learning and Cybernetics**, 2025, 16: 10959–10976.
 3. **Yuangang Wang**, Jiaming Duan, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. [*Interpretable Classifier Design by Axiomatic Fuzzy Sets Theory and Derivative-free Optimization*](https://www.sciencedirect.com/science/article/abs/pii/S0957417424001052), **Expert Systems With Applications**, 2024, 246: 123240.
 4. **Yuangang Wang**, Haoran Liu, Wenjuan Jia, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. [*Deep Fuzzy Rule-based Classification System with Improved Wang-Mendel Method*](https://ieeexplore.ieee.org/document/9492811), **IEEE Transactions on Fuzzy Systems**, 2022, 30(8): 2957-2970.
