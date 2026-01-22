@@ -16,7 +16,7 @@ redirect_from:
 
 在审论文
 =
-1. Jiayu Xue, Bowen Shen, Haoran Liu, Shuo Guan, Lijing Wei, Hejia Cao, **Yuangang Wang**. From Soft Logic to Hard Rules: A Differentiable Boolean Framework for Interpretable and Balanced Classification, **Pacific-Asia Conference on Knowledge Discovery and Data Mining**.
+1. Jiayu Xue, Bowen Shen, Haoran Liu, Shuo Guan, Lijing Wei, Hejia Cao, **Yuangang Wang***. From Soft Logic to Hard Rules: A Differentiable Boolean Framework for Interpretable and Balanced Classification, **Pacific-Asia Conference on Knowledge Discovery and Data Mining**.
 2. **Yuangang Wang**, Jingshuai Dong, Xincheng He, Haoran Liu, Shuo Guan, Xiaodong Duan*. ML-DFRBCS: Multi-Label Deep Fuzzy Rule-based Classification System, **Applied Soft Computing**.
 3. Lijing Wei, Xiaochun Wan, Han Gao, Haoran Liu, Shuo Guan, Tao Ning, Xiaodong Duan, and **Yuangang Wang***. Deep Multimodal Fusion Network for Apparent Personality Analysis, **IEEE International Conference on Multimedia and Expo**.
 4. **Yuangang Wang**, Jiaqi Shen, Lijing Wei, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. Partial Label Learning Based on Takagi-Sugeno-Kang Fuzzy System, **IEEE Transactions on Big Data**.
