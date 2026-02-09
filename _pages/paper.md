@@ -16,12 +16,11 @@ redirect_from:
 
 在审论文
 =
-1. 
-2. **Yuangang Wang**, Jingshuai Dong, Xincheng He, Haoran Liu, Shuo Guan, Xiaodong Duan*. ML-DFRBCS: Multi-Label Deep Fuzzy Rule-based Classification System, **Applied Soft Computing**.
-3. Lijing Wei, Xiaochun Wan, Han Gao, Haoran Liu, Shuo Guan, Tao Ning, Xiaodong Duan, and **Yuangang Wang***. Deep Multimodal Fusion Network for Apparent Personality Analysis, **IEEE International Conference on Multimedia and Expo (ICME)**.
-4. **Yuangang Wang**, Jiaqi Shen, Lijing Wei, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. Partial Label Learning Based on Takagi-Sugeno-Kang Fuzzy System, **IEEE Transactions on Big Data**.
-5. Bowen Shen, Jiayu Xue, Haoran Liu, Shuo Guan, Lijing Wei, Hejia Cao, **Yuangang Wang***. Differentiable Rule Networks for Interpretable and Uncertainty-Aware Crop Yield Prediction, **Computer and Electronic **.
-6. Jingsong Chen, Lvzuo Chen, Tao Ning, **Yuangang Wang**, Han Gao, Xiaodong Duan*. Label–Temporal Aware Attention for Facial Big Five Personality Prediction, **The Annual Conference of the Cognitive Science Society (CogSci)**.
+1. **Yuangang Wang**, Jingshuai Dong, Xincheng He, Haoran Liu, Shuo Guan, Xiaodong Duan*. ML-DFRBCS: Multi-Label Deep Fuzzy Rule-based Classification System, **Applied Soft Computing**.
+2. Lijing Wei, Xiaochun Wan, Han Gao, Haoran Liu, Shuo Guan, Tao Ning, Xiaodong Duan, and **Yuangang Wang***. Deep Multimodal Fusion Network for Apparent Personality Analysis, **IEEE International Conference on Multimedia and Expo (ICME)**.
+3. **Yuangang Wang**, Jiaqi Shen, Lijing Wei, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. Partial Label Learning Based on Takagi-Sugeno-Kang Fuzzy System, **IEEE Transactions on Big Data**.
+4. Bowen Shen, Jiayu Xue, Haoran Liu, Shuo Guan, Lijing Wei, Hejia Cao, **Yuangang Wang***. Differentiable Rule Networks for Interpretable and Uncertainty-Aware Crop Yield Prediction, **Computer and Electronic **.
+5. Jingsong Chen, Lvzuo Chen, Tao Ning, **Yuangang Wang**, Han Gao, Xiaodong Duan*. Label–Temporal Aware Attention for Facial Big Five Personality Prediction, **The Annual Conference of the Cognitive Science Society (CogSci)**.
 
 期刊论文
 =
