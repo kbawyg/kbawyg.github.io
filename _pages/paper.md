@@ -16,11 +16,11 @@ redirect_from:
 
 在审论文
 =
-1. Jiayu Xue, Bowen Shen, Haoran Liu, Shuo Guan, Lijing Wei, Hejia Cao, **Yuangang Wang***. From Soft Logic to Hard Rules: A Differentiable Boolean Framework for Interpretable and Balanced Classification, **Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)**.
+1. 
 2. **Yuangang Wang**, Jingshuai Dong, Xincheng He, Haoran Liu, Shuo Guan, Xiaodong Duan*. ML-DFRBCS: Multi-Label Deep Fuzzy Rule-based Classification System, **Applied Soft Computing**.
 3. Lijing Wei, Xiaochun Wan, Han Gao, Haoran Liu, Shuo Guan, Tao Ning, Xiaodong Duan, and **Yuangang Wang***. Deep Multimodal Fusion Network for Apparent Personality Analysis, **IEEE International Conference on Multimedia and Expo (ICME)**.
 4. **Yuangang Wang**, Jiaqi Shen, Lijing Wei, Haoran Liu, Shuo Guan, Xiaodong Liu, Xiaodong Duan*. Partial Label Learning Based on Takagi-Sugeno-Kang Fuzzy System, **IEEE Transactions on Big Data**.
-5. Bowen Shen, Jiayu Xue, Haoran Liu, Shuo Guan, Lijing Wei, Hejia Cao, **Yuangang Wang***. Differentiable Rule Networks for Interpretable and Uncertainty-Aware Crop Yield Prediction, **International Conference on Database Systems for Advanced Applications (DASFFA)**.
+5. Bowen Shen, Jiayu Xue, Haoran Liu, Shuo Guan, Lijing Wei, Hejia Cao, **Yuangang Wang***. Differentiable Rule Networks for Interpretable and Uncertainty-Aware Crop Yield Prediction, **Computer and Electronic **.
 6. Jingsong Chen, Lvzuo Chen, Tao Ning, **Yuangang Wang**, Han Gao, Xiaodong Duan*. Label–Temporal Aware Attention for Facial Big Five Personality Prediction, **The Annual Conference of the Cognitive Science Society (CogSci)**.
 
 期刊论文
@@ -38,6 +38,7 @@ redirect_from:
 
 会议论文
 =
-1. Xincheng He, Xueting Jiang, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang**. [*Neural Rule Learning with Network Architecture Search for Interpretable Classification*](http://poster-openaccess.com/files/ICIC2025/3999.pdf), **2025 21st International Conference on Intelligent Computing**, July 26-29, Ningbo, China, 2025.
-2. Xueting Jiang, Xincheng He, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang***. [*Towards Transparent Industrial Fault Diagnosis via Logic-Aware Neural Rule Learning*](https://link.springer.com/chapter/10.1007/978-981-95-4109-6_19), **2025 32nd International Conference on Neural Information Processing**, November 20-24, Okinawa, Japan, 2025.
-3. Han Gao, Tao Ning, Xiaodong Duan, Xiaochun Wan, Lvzuo Chen, Jingsong Chen, **Yuangang Wang***. Multimodal Personality Trait Recognition via Spatiotemporal Modeling and Dual-Stage Fusion, **2026 32nd International Conference on MultiMedia Modeling**, January 29-31, Prague, Czech Republic, 2026.
+1. Xincheng He, Xueting Jiang, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang**. [*Neural Rule Learning with Network Architecture Search for Interpretable Classification*](http://poster-openaccess.com/files/ICIC2025/3999.pdf), **2025 21st International Conference on Intelligent Computing (ICIC)**, July 26-29, Ningbo, China, 2025.
+2. Xueting Jiang, Xincheng He, Haoran Liu, Shuo Guan, Jiayu Xue, Bowen Shen, **Yuangang Wang***. [*Towards Transparent Industrial Fault Diagnosis via Logic-Aware Neural Rule Learning*](https://link.springer.com/chapter/10.1007/978-981-95-4109-6_19), **2025 32nd International Conference on Neural Information Processing (ICONIP)**, November 20-24, Okinawa, Japan, 2025.
+3. Han Gao, Tao Ning, Xiaodong Duan, Xiaochun Wan, Lvzuo Chen, Jingsong Chen, **Yuangang Wang***. Multimodal Personality Trait Recognition via Spatiotemporal Modeling and Dual-Stage Fusion, **2026 32nd International Conference on MultiMedia Modeling (MMM)**, January 29-31, Prague, Czech Republic, 2026.
+4. Jiayu Xue, Bowen Shen, Haoran Liu, Shuo Guan, Lijing Wei, Hejia Cao, **Yuangang Wang***. From Soft Logic to Hard Rules: A Differentiable Boolean Framework for Interpretable and Balanced Classification, **2026 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)**, June 9-12, Hong Kong, China, 2026.
