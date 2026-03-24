@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-拟投稿论文
-=
-
-
 
 在审论文
 =
