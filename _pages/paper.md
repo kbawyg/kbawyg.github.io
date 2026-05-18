@@ -16,6 +16,7 @@ redirect_from:
 2. **Yuangang Wang**, Jiaqi Shen, Lijing Wei, Haoran Liu, Shuo Guan, Xiaodong Liu, Cunrui Wang*. DCPLTSK: Disambiguation-Correction Partial Label Learning with Takagi-Sugeno-Kang Fuzzy Systems.
 3. Bowen Shen, Jiayu Xue, Haoran Liu, Shuo Guan, Lijing Wei, Hejia Cao, **Yuangang Wang***. Differentiable Rule Networks for Interpretable and Uncertainty-Aware Crop Yield Response Evaluation.
 4. Jingsong Chen, Lvzuo Chen, Tao Ning, **Yuangang Wang**, Han Gao, Xiaodong Duan*. Label–Temporal Aware Attention for Facial Big Five Personality Prediction.
+5. Jiayu Xue, Bowen Shen, Haoran Liu, Shuo Guan, Cunrui Wang, **Yuangang Wang***. DiCRL: Differentiable Concept-Rule Learning for Interpretable Medical Image Classification.
 
 期刊论文
 =
