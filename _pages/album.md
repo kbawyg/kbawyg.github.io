@@ -13,8 +13,9 @@ redirect_from:
 {% include base_path %}
 
 # 参加会议
-## ICIC 2026
-
+## ICIC 2025
+<img src='/images/icic-2025-1.jpg'>"
+<img src='/images/icic-2025-2.jpg'>"
 
 # 参加比赛
 
