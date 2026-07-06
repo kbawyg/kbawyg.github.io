@@ -23,7 +23,7 @@ main:
   - title: "团队成员"
     url: /team/
   
-  - title: "学生风采"
+  - title: "风采展示"
     url: /album/
     
   #- title: "CV"
