@@ -1,4 +1,18 @@
 ---
+layout: archive
+permalink: /album/
+author_profile: true
+redirect_from:
+  - /resume
+  - /about
+  - /course
+  - /team
+  - /honor
+---
+
+{% include base_path %}
+
+---
 title: "Portfolio item number 1"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
