@@ -27,8 +27,3 @@ redirect_from:
 | 12 | 全国大学生光电设计竞赛 | A2 | | | | | 1 | |
 | 13 | 全国大学生数学建模竞赛 | A2 | | | | | | 1 |
 
-比赛掠影
-=
-<iframe src="https://cn.widgetstore.net/view/index.html?q=ca780ad562d7cdba0bb00dab4b0c47ec.cd349d8f69037e76017d48183beee20b"
-        width="100%" height="600"
-        style="border: none;"></iframe>
