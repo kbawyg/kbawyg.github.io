@@ -10,7 +10,7 @@ redirect_from:
 新闻近况
 =
 * 【2026-02-08】本科生舒星卜、苏安琪等人组成的队伍“AAA舒总向前飞安琪永相随”和本科生陈昌绕、马晓晴等人组成的队伍“再也不当NPC”获得[2026睿抗机器人开发者大赛智能算法及应用-智海算法调优赛题](https://raicom.com.cn/content.html?cid=1750)省级三等奖。
-* 【2026-02-08】研究生薛佳宇等人撰写的论文“From Soft Logic to Hard Rules: A Differentiable Boolean Framework for Interpretable and Balanced Classification”获得The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining（PAKDD-2026）的“**Best Paper Award**”。
+* 【2026-02-08】研究生薛佳宇等人撰写的论文“From Soft Logic to Hard Rules: A Differentiable Boolean Framework for Interpretable and Balanced Classification”获得The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining（PAKDD-2026）的“**[Best Paper Award](https://www.pakdd2026.org/awardees)**”。
 * 【2026-02-08】研究生薛佳宇等人撰写的论文“From Soft Logic to Hard Rules: A Differentiable Boolean Framework for Interpretable and Balanced Classification”被The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining（PAKDD-2026）接收录用。
 * 【2026-01-15】研究生韦丽静和曹何佳等人组成的队伍获得[2025年华为ICT大赛](https://cxcy.upln.cn/competitionDetails?id=3d85b23577073b831896935d3dcf428d)省级三等奖。
 * 【2026-01-06】研究生韦丽静和曹何佳等人组成的队伍获得[2025年亚太地区大学生数学建模竞赛](https://new.saikr.com/vse/apmcm/2025?type=notice&id=38154)国家级二等奖。
