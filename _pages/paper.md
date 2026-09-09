@@ -18,7 +18,8 @@ redirect_from:
 4. Jingsong Chen, Lvzuo Chen, Tao Ning, **Yuangang Wang**, Han Gao, Xiaodong Duan*. Label–Temporal Aware Attention for Facial Big Five Personality Prediction.
 5. Jiayu Xue, Bowen Shen, Haoran Liu, Shuo Guan, Cunrui Wang, **Yuangang Wang***. DiCRL: Differentiable Concept-Rule Learning for Interpretable Medical Image Classification.
 6. Hejia Cao, Lijing Wei, Haoran Liu, Shuo Guan, Cunrui Wang, **Yuangang Wang***. FNSL: Integrating Axiomatic Fuzzy Sets with Neuro-Symbolic Learning for Interpretable Rule Extraction.
-7. Bowen Shen, Jiayu Xue, Haoran Liu, Shuo Guan, Yirui Ding, **Yuangang Wang***. Interpretable and Uncertainty-Aware Crop Yield Prediction Using Differentiable Rule Networks
+7. Bowen Shen, Jiayu Xue, Haoran Liu, Shuo Guan, Yirui Ding, **Yuangang Wang***. Interpretable and Uncertainty-Aware Crop Yield Prediction Using Differentiable Rule Networks.
+8. **Yuangang Wang**, Huibo Shi, Yixin Du, Haoran Liu, Shuo Guan, Xiaodong Liu, Cunrui Wang. An Interpretable Deep Fuzzy Soft Sensor Framework for Industrial Process Quality Prediction.
 
 期刊论文
 =
