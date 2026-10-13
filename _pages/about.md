@@ -9,6 +9,7 @@ redirect_from:
 
 新闻近况
 =
+* 【2026-10-09】研究生曹何佳、韦丽静和史慧博组成的队伍“你好请排队”获得[“华为杯”第八届中国研究生人工智能创新大赛](https://cpipc.acge.org.cn/cw/contestNews/detail/2c9088a5696cbf370169a3f8101510bd/2c908019a114eb1001a11e797a6911cb?page=1)国家级三等奖。
 * 【2026-02-08】本科生舒星卜、苏安琪等人组成的队伍“AAA舒总向前飞安琪永相随”和本科生陈昌绕、马晓晴等人组成的队伍“再也不当NPC”获得[2026睿抗机器人开发者大赛智能算法及应用-智海算法调优赛题](https://raicom.com.cn/content.html?cid=1750)省级三等奖。
 * 【2026-02-08】研究生薛佳宇等人撰写的论文“From Soft Logic to Hard Rules: A Differentiable Boolean Framework for Interpretable and Balanced Classification”获得The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining（PAKDD-2026）的“**[Best Paper Award](https://www.pakdd2026.org/awardees)**”。
 * 【2026-02-08】研究生薛佳宇等人撰写的论文“From Soft Logic to Hard Rules: A Differentiable Boolean Framework for Interpretable and Balanced Classification”被The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining（PAKDD-2026）接收录用。
